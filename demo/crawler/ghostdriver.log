@@ -1,0 +1,15 @@
+[INFO  - 2017-04-25T13:48:05.800Z] GhostDriver - Main - running on port 54708
+[INFO  - 2017-04-25T13:48:06.858Z] Session [cfb73e60-29bd-11e7-b16a-1fa6ebaa0873] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36","webSecurityEnabled":true}
+[INFO  - 2017-04-25T13:48:06.858Z] Session [cfb73e60-29bd-11e7-b16a-1fa6ebaa0873] - page.customHeaders:  - {}
+[INFO  - 2017-04-25T13:48:06.858Z] Session [cfb73e60-29bd-11e7-b16a-1fa6ebaa0873] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"}
+[INFO  - 2017-04-25T13:48:06.858Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cfb73e60-29bd-11e7-b16a-1fa6ebaa0873
+[ERROR - 2017-04-25T13:48:12.182Z] Session [cfb73e60-29bd-11e7-b16a-1fa6ebaa0873] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-04-25T13:48:12.183Z] Session [cfb73e60-29bd-11e7-b16a-1fa6ebaa0873] - page.onError - stack:
+  defineProperty (http://dn-growing.qbox.me/vds.js:2)
+  registerHistoryHandler (http://dn-growing.qbox.me/vds.js:2)
+  domLoadedHandler (http://dn-growing.qbox.me/vds.js:2)
+  (anonymous function) (http://dn-growing.qbox.me/vds.js:2)
+
+  phantomjs://platform/console++.js:263 in error

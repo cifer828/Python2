@@ -1,0 +1,426 @@
+PARSFILE
+
+#EXPANDED_PARSFILE 2.0
+
+! This is an expansion of the parsfile: "Roads\3D_Road\Road136.par"
+! It contains the contents of that file plus the contents of any files linked
+! with the "PARSFILE" or "SPECIAL_PARSFILE" keywords.
+
+! File created: 17:17 on April 06, 2016 by CarSim Version 8.1a, October 2011
+
+PRODUCT_NAME CarSim
+
+ENTER_PARSFILE Roads\3D_Road\Road136.par`04-06-2016`17:08:17
+#FullDataName Road: 3D Surface (All Properties)`Shanxi`Cifer
+OPT_ROAD 1
+iroad 1 ! obsolete March 2011
+idz_road 1
+RR_SURF 1.0
+DZ_SHADOW 0.05
+L_CAMERA_FRONT 0
+L_CAMERA_REAR 0
+*IMAGE_TYPE DEFAULT
+ENTER_PARSFILE Roads\Center_XY\RoadXY105.par`04-06-2016`15:21:19
+#FullDataName Road: X-Y Coordinates of Centerline`ShanXi`Cifer
+SPATH 0
+
+#CheckBox0 0
+OPT_ROAD_LOOP 0
+
+#RadioCtrl0 0
+
+OPT_ROAD 1
+
+#DiagramOne0
+YIN_TABLE
+3876259.863, 495535.433, 0
+3876263.192, 495555.153, 19.9990160008
+3876265.862, 495574.973, 39.9980484774
+3876267.705, 495592.948, 58.067284045
+3876267.873, 495594.871, 59.9976086292
+3876269.613, 495614.795, 79.9974430285
+3876271.354, 495634.719, 99.9973644533
+3876273.094, 495654.643, 119.997198853
+3876274.834, 495674.567, 139.997033252
+3876276.574, 495694.491, 159.996867651
+3876277.484, 495704.905, 170.450551021
+3876278.303, 495714.416, 179.996748275
+3876279.725, 495734.365, 199.996365396
+3876280.234, 495749.808, 215.447751418
+3876280.24, 495754.355, 219.994755377
+3876279.419, 495774.335, 239.991616155
+3876279.078, 495778.44, 244.110755143
+3876277.219, 495794.209, 259.988955356
+3876275.093, 495806.817, 272.774945345
+3876273.654, 495813.885, 279.987943681
+3876268.977, 495833.329, 299.986530256
+3876264.354, 495850.504, 317.772838305
+3876263.771, 495852.639, 319.986006622
+3876261.463, 495861.076, 328.732996561
+3876258.59, 495871.956, 339.985930801
+3876255.291, 495891.655, 359.959263072
+3876255.28, 495900.395, 368.699269994
+3876257.072, 495911.489, 379.937067821
+3876265.023, 495929.394, 399.528071522
+3876265.2, 495929.661, 399.848411966
+3876278.827, 495944.174, 419.756257103
+3876287.797, 495949.821, 430.355762232
+3876296.431, 495953.484, 439.734649426
+3876315.855, 495958.143, 459.709585146
+3876326.353, 495959.706, 470.323301413
+3876327.215, 495959.828, 471.193892017
+3876335.641, 495961.059, 479.709338981
+3876355.147, 495965.387, 499.689719859
+3876365.771, 495969.714, 511.161088783
+3876373.05, 495974.12, 519.669712467
+3876386.682, 495987.47, 538.749909636
+3876387.175, 495988.148, 539.588201352
+3876395.934, 496006.025, 559.495667539
+3876397.505, 496012.679, 566.332608156
+3876398.518, 496025.781, 579.473710583
+3876396.674, 496045.679, 599.456972079
+3876395.616, 496052.437, 606.297288446
+3876393.686, 496065.453, 619.455599735
+3876392.737, 496085.403, 639.428158435
+3876393.439, 496092.205, 646.266287419
+ENDTABLE
+
+LOG_ENTRY Used Dataset: Road: X-Y Coordinates of Centerline; { Cifer } ShanXi
+#Library : Road: X-Y Coordinates of Centerline
+#DataSet : ShanXi
+#Category: Cifer
+#FileID  : RoadXY105
+#Product : CarSim Version 8.1a, October 2011
+#Last update: 04-06-2016 15:21:19
+#VehCode Horizontal (X-Y) table
+
+EXIT_PARSFILE Roads\Center_XY\RoadXY105.par
+
+#BlueLink0 Road: X-Y Coordinates of Centerline`ShanXi` Cifer` , Centerline geometry
+
+ENTER_PARSFILE Roads\Center_Z\RoadZ108.par`04-06-2016`15:18:44
+#FullDataName Road: Centerline Elevation`ShanXI`Cifer
+OPT_ROAD 1
+
+#RingCtrl0 SPLINE
+#DiagramOne0
+ROAD_ZS_TABLE SPLINE
+0, -8.3267
+180, -8.3321
+480, -8.315
+ENDTABLE
+#RadioCtrl0 0
+
+
+
+LOG_ENTRY Used Dataset: Road: Centerline Elevation; { Cifer } ShanXI
+#Library : Road: Centerline Elevation
+#DataSet : ShanXI
+#Category: Cifer
+#FileID  : RoadZ108
+#Product : CarSim Version 8.1a, October 2011
+#Last update: 04-06-2016 15:18:44
+#VehCode Centerline elevation: Z vs S
+
+EXIT_PARSFILE Roads\Center_Z\RoadZ108.par
+
+#BlueLink1 Road: Centerline Elevation`ShanXI` Cifer` , Centerline elevation
+
+ENTER_PARSFILE Roads\dZ_Map\RdElMap115.par`04-06-2016`17:08:12
+#FullDataName Road: Off-Center Elevation Map, S-L Grid`ShanXi`Cifer
+OPT_ROAD 1
+
+#RingCtrl0 CARPET
+*3D_XLabel Lateral coordinate (m)
+*3D_YLabel Station (m)
+*3D_ZLabel Incremental elevation (m)
+
+#DiagramTwo0
+*3D_DATA 3, 13 ! columns x rows
+ROAD_DZ_CARPET
+0, -1, 0, 1
+80, 0.08, 0, -0.08
+220, 0.12, 0, -0.12
+289, 0.08, 0, -0.08
+334, 0.03716, 0, -0.03716
+350, -0.085, 0, 0.085
+374, -0.16, 0, 0.16
+469.8, 0.07348, 0, -0.07348
+500, 0.11408, 0, -0.11408
+509.808, 0.15328, 0, -0.15328
+531.273, 0.16, 0, -0.16
+592.737, 0.08, 0, -0.08
+593, 0, 0, 0
+594, 0, 0, 0
+ENDTABLE
+
+#RadioCtrl0 0
+
+*SCALAR 0
+
+
+LOG_ENTRY Used Dataset: Road: Off-Center Elevation Map, S-L Grid; { Cifer } ShanXi
+#Library : Road: Off-Center Elevation Map, S-L Grid
+#DataSet : ShanXi
+#Category: Cifer
+#FileID  : RdElMap115
+#Product : CarSim Version 8.1a, October 2011
+#Last update: 04-06-2016 17:08:12
+#VehCode dZ via S-L grid
+
+EXIT_PARSFILE Roads\dZ_Map\RdElMap115.par
+
+#BlueLink2 Road: Off-Center Elevation Map, S-L Grid`ShanXi` Cifer` , Off-center elevation 1
+
+ENTER_PARSFILE Roads\Friction\RdFric104.par`04-05-2016`12:13:08
+#FullDataName Road: Friction Map, S-L Grid`0.75`Constant Mu
+OPT_ROAD 1
+
+#RingCtrl0 CONSTANT
+MU_ROAD_CONSTANT 0.6
+#RadioCtrl0 0
+
+*SCALAR 0.6
+
+
+LOG_ENTRY Used Dataset: Road: Friction Map, S-L Grid; { Constant Mu } 0.75
+#Library : Road: Friction Map, S-L Grid
+#DataSet : 0.75
+#Category: Constant Mu
+#FileID  : RdFric104
+#Product : CarSim Version 8.1a, October 2011
+#Last update: 04-05-2016 12:13:08
+#VehCode Mu via S-L grid
+
+EXIT_PARSFILE Roads\Friction\RdFric104.par
+
+#BlueLink3 Road: Friction Map, S-L Grid`0.75` Constant Mu` , Friction
+
+ENTER_PARSFILE Roads\Shapes\RdShp104.par`03-22-2016`19:26:07
+#FullDataName Road: Animator Surface Shapes`1200 m Road + 200 m Light Grass`Roads
+NLANES 5
+OPTTHRESHOLD 1
+#MiscYellow0
+# 0.878 0.878 0.878, Road (Medium), 0.2, 50, 1, -4, m, 4, m, , , -100, 1200, 5, , ,
+# 0.878 0.878 0.878, Road Transition (Light), 0.1, 50, 1, 4, m, 7.1, m, , , -100, 1200, 5, , ,
+# 0.878 0.878 0.878, Grass (Light), 0.1, 50, 3.1, -7.1, m, -100, m, , , -100, 1200, 5, , ,
+# 0.878 0.878 0.878, Grass (Light), 0.1, 50, 3.1, 7.1, m, 100, m, , , -100, 1200, 5, , ,
+# 0.878 0.878 0.878, Road Transition (Light), 0.1, 50, -0.969, -4, m, -7.1, m, , , -100, 1200, 5, , ,
+#ENDMYellow
+
+#CheckBox0 0
+MIRROR 0
+
+COLOR(1) 0.878 0.878 0.878
+MATERIAL(1) Road (Medium)
+SPECULAR(1) 0.2
+SCALE(1) 50
+LTILES(1) 1
+LIN(1) -4
+LINUNITS(1) m
+LOUT(1) 4
+LOUTUNITS(1) m
+SSTART(1) -100
+SSTOP(1) 1200
+SINT(1) 5
+COLOR(2) 0.878 0.878 0.878
+MATERIAL(2) Road Transition (Light)
+SPECULAR(2) 0.1
+SCALE(2) 50
+LTILES(2) 1
+LIN(2) 4
+LINUNITS(2) m
+LOUT(2) 7.1
+LOUTUNITS(2) m
+SSTART(2) -100
+SSTOP(2) 1200
+SINT(2) 5
+COLOR(3) 0.878 0.878 0.878
+MATERIAL(3) Grass (Light)
+SPECULAR(3) 0.1
+SCALE(3) 50
+LTILES(3) 3.1
+LIN(3) -7.1
+LINUNITS(3) m
+LOUT(3) -100
+LOUTUNITS(3) m
+SSTART(3) -100
+SSTOP(3) 1200
+SINT(3) 5
+COLOR(4) 0.878 0.878 0.878
+MATERIAL(4) Grass (Light)
+SPECULAR(4) 0.1
+SCALE(4) 50
+LTILES(4) 3.1
+LIN(4) 7.1
+LINUNITS(4) m
+LOUT(4) 100
+LOUTUNITS(4) m
+SSTART(4) -100
+SSTOP(4) 1200
+SINT(4) 5
+COLOR(5) 0.878 0.878 0.878
+MATERIAL(5) Road Transition (Light)
+SPECULAR(5) 0.1
+SCALE(5) 50
+LTILES(5) -0.969
+LIN(5) -4
+LINUNITS(5) m
+LOUT(5) -7.1
+LOUTUNITS(5) m
+SSTART(5) -100
+SSTOP(5) 1200
+SINT(5) 5
+MTL_FILE Roads\materials\road.mtl
+
+
+LOG_ENTRY Used Dataset: Road: Animator Surface Shapes; { Roads } 1200 m Road + 200 m Light Grass
+#Library : Road: Animator Surface Shapes
+#DataSet : 1200 m Road + 200 m Light Grass
+#Category: Roads
+#FileID  : RdShp104
+#Product : CarSim Version 8.1a, October 2011
+#Last update: 03-22-2016 19:26:07
+#VehCode Road shapes
+
+EXIT_PARSFILE Roads\Shapes\RdShp104.par
+
+#BlueLink4 Road: Animator Surface Shapes`1200 m Road + 200 m Light Grass` Roads` , Road shape definitions
+
+add_reference_frame road_stuff_1
+reference_frame_ghosts off
+add_reference_frame road_stuff_2
+reference_frame_ghosts off
+add_reference_frame road_stuff_3
+reference_frame_ghosts off
+add_reference_frame road_stuff_4
+reference_frame_ghosts off
+iroad 2 ! obsolete March 2011
+idz_road 2
+
+ENTER_PARSFILE Animator\Cameras\Camera102.par`03-22-2016`15:18:50
+#FullDataName Animator: Camera Setup`3 deg. Azimuth, Veh. Ref.`Vehicle Reference
+#RingCtrl1 0
+
+#CheckBox0 0
+#CheckBox1 0
+
+GHOST_COUNT 0
+SET_CAMERA_Reference_Frame Cameras Camera Tracking X-Y-Z
+ENTER_PARSFILE Animator\Frames\Frame102.par`03-22-2016`15:18:49
+#FullDataName Animator: Reference Frame`Camera Tracking X-Y-Z`Cameras
+ADD_REFERENCE_FRAME Cameras Camera Tracking X-Y-Z
+#RingCtrl0 yaw_pitch_roll
+SET_EULER_ANGLES yaw_pitch_roll
+SET_X_NAME Xo
+SET_Y_NAME Yo
+SET_Z_NAME Zo
+
+WRT_Xo
+ANI_Xo
+WRT_Yo
+ANI_Yo
+WRT_Zo
+ANI_Zo
+
+LOG_ENTRY Used Dataset: Animator: Reference Frame; { Cameras } Camera Tracking X-Y-Z
+#Library : Animator: Reference Frame
+#DataSet : Camera Tracking X-Y-Z
+#Category: Cameras
+#FileID  : Frame102
+#Product : CarSim Version 8.1a, October 2011
+#Last update: 03-22-2016 15:18:49
+#VehCode Reference frame
+
+EXIT_PARSFILE Animator\Frames\Frame102.par
+
+#BlueLink0 Animator: Reference Frame`Camera Tracking X-Y-Z` Cameras` , Reference frame for outside camera
+
+SET_LOOKPOINT_Reference_Frame Cameras Camera Tracking X-Y-Z
+SET_LOOKPOINT_X -2
+SET_LOOKPOINT_Y 0
+SET_LOOKPOINT_Z 0.25
+SET_AZIMUTH 3
+SET_ELEVATION 4.5
+SET_DISTANCE 80
+*SET_LOOKPOINT_X -2
+*SET_LOOKPOINT_Y 0
+*SET_LOOKPOINT_Z 0.25
+*SET_AZIMUTH 3
+*SET_ELEVATION 4.5
+*SET_DISTANCE 80
+GHOST_COUNT 0
+FOG_SCALE 0
+SET_FIELD_OF_VIEW 6
+
+LOG_ENTRY Used Dataset: Animator: Camera Setup; { Vehicle Reference } 3 deg. Azimuth, Veh. Ref.
+#Library : Animator: Camera Setup
+#DataSet : 3 deg. Azimuth, Veh. Ref.
+#Category: Vehicle Reference
+#FileID  : Camera102
+#Product : CarSim Version 8.1a, October 2011
+#Last update: 03-22-2016 15:18:50
+#VehCode Camera
+
+EXIT_PARSFILE Animator\Cameras\Camera102.par
+
+#BlueLink5 Animator: Camera Setup`3 deg. Azimuth, Veh. Ref.` Vehicle Reference` , Camera
+
+ENTER_PARSFILE Roads\3D_Road\Road136.ani`04-06-2016`17:08:16
+add_reference_frame The Road
+reference_frame_ghosts off
+
+add_obj Roads\3D_Road\Road136_1.obj
+set_color 0.878 0.878 0.878
+show_front on
+show_back off
+compute_normals on
+set_specular 0.2 0.2 0.2
+
+add_obj Roads\3D_Road\Road136_2.obj
+set_color 0.878 0.878 0.878
+show_front on
+show_back off
+compute_normals on
+set_specular 0.1 0.1 0.1
+
+add_obj Roads\3D_Road\Road136_3.obj
+set_color 0.878 0.878 0.878
+show_front on
+show_back off
+compute_normals on
+set_specular 0.1 0.1 0.1
+
+add_obj Roads\3D_Road\Road136_4.obj
+set_color 0.878 0.878 0.878
+show_front on
+show_back off
+compute_normals on
+set_specular 0.1 0.1 0.1
+
+add_obj Roads\3D_Road\Road136_5.obj
+set_color 0.878 0.878 0.878
+show_front on
+show_back off
+compute_normals on
+set_specular 0.1 0.1 0.1
+
+
+
+EXIT_PARSFILE Roads\3D_Road\Road136.ani
+
+
+LOG_ENTRY Used Dataset: Road: 3D Surface (All Properties); { Cifer } Shanxi
+#Library : Road: 3D Surface (All Properties)
+#DataSet : Shanxi
+#Category: Cifer
+#FileID  : Road136
+#Product : CarSim Version 8.1a, October 2011
+#Last update: 04-06-2016 17:08:17
+#VehCode 3D road
+
+EXIT_PARSFILE Roads\3D_Road\Road136.par
+
+
+
+END

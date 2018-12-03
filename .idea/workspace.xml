@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6605fd-fa95-4b9a-a095-c3c1c51f39a3" name="Default" comment="" />
+    <ignored path="PycharmProjects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$manage.coverage" NAME="manage Coverage Results" MODIFIED="1495077822210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$register.coverage" NAME="register Coverage Results" MODIFIED="1479792747448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1533536016230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$views.coverage" NAME="views Coverage Results" MODIFIED="1494054357157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tw_read_spider.coverage" NAME="tw_read_spider Coverage Results" MODIFIED="1458975517000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/TwCrawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urlhw2.coverage" NAME="urlhw2 Coverage Results" MODIFIED="1476774250438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$re01.coverage" NAME="re01 Coverage Results" MODIFIED="1457439379440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/regular_expression" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$MNIST_beginner.coverage" NAME="MNIST_beginner Coverage Results" MODIFIED="1517572705924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/tensorflow" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dict2json.coverage" NAME="dict2json Coverage Results" MODIFIED="1482172063064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/inetpub/wwwroot/Django" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dorm_crawler__1_.coverage" NAME="dorm_crawler (1) Coverage Results" MODIFIED="1471158321071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$random_choices.coverage" NAME="random_choices Coverage Results" MODIFIED="1487839018604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1489218093513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/michaelliao-miniweibo-389a8c6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tw_friend_test.coverage" NAME="tw_friend_test Coverage Results" MODIFIED="1458976830900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/TwCrawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$geoload.coverage" NAME="geoload Coverage Results" MODIFIED="1481521969136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/geodata" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Vibe_test.coverage" NAME="Vibe_test Coverage Results" MODIFIED="1511967538190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rpsls.coverage" NAME="rpsls Coverage Results" MODIFIED="1454126757375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/视频/Coursera/Fundamentals of Computing/An Introduction to Interactive Programming in Python/Part I/Mini-project" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$twurl.coverage" NAME="twurl Coverage Results" MODIFIED="1458971968344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/TwCrawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lucas_kanade_dense.coverage" NAME="lucas_kanade_dense Coverage Results" MODIFIED="1511922593077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$extract_annotations.coverage" NAME="extract_annotations Coverage Results" MODIFIED="1500795149322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/caltech-pedestrian-detection-benchmark-python-extractor-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1528945532774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$alg_project3_viz.coverage" NAME="alg_project3_viz Coverage Results" MODIFIED="1515483089370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG/ALG_Closest_Pairs_and_Clustering_Algorithms" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lucas_kanade.coverage" NAME="lucas_kanade Coverage Results" MODIFIED="1511923219724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cubic.coverage" NAME="cubic Coverage Results" MODIFIED="1480919398064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Carsim/GradPro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$POC_Word_Wangler__1_.coverage" NAME="POC_Word_Wangler (1) Coverage Results" MODIFIED="1457408040977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/POC_Word_Wangler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$photo_geo.coverage" NAME="photo_geo Coverage Results" MODIFIED="1482173691930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/inetpub/wwwroot/Django" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$zhicheng_test2.coverage" NAME="zhicheng_test2 Coverage Results" MODIFIED="1495072839105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$video_stab.coverage" NAME="video_stab Coverage Results" MODIFIED="1513911743068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1505810904997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jsonhw2.coverage" NAME="jsonhw2 Coverage Results" MODIFIED="1457874812072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/XML_JSON" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2048_merge.coverage" NAME="2048 merge Coverage Results" MODIFIED="1454126842306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$process_xls.coverage" NAME="process_xls Coverage Results" MODIFIED="1489404360501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/land use" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pedestrain_detect.coverage" NAME="pedestrain_detect Coverage Results" MODIFIED="1500543279027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$twitter2.coverage" NAME="twitter2 Coverage Results" MODIFIED="1458973627680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/TwCrawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$alg_application4_provided.coverage" NAME="alg_application4_provided Coverage Results" MODIFIED="1458463495624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG_Computing_Alignments_of_Sequences" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$process__1_.coverage" NAME="process (1) Coverage Results" MODIFIED="1463018264022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Graduate Project/Carsim/GradPro/post-process/7240" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$POC_Fifteen_Puzzle.coverage" NAME="POC_Fifteen_Puzzle Coverage Results" MODIFIED="1476271457419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/POC/POC_Fifteen_Puzzle" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$image_complete.coverage" NAME="image_complete Coverage Results" MODIFIED="1531459944992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider_medicine__1_.coverage" NAME="spider_medicine (1) Coverage Results" MODIFIED="1493966432803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/spider_medicine_and_clinical_trial" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Road_Coordinate__3_.coverage" NAME="Road_Coordinate (3) Coverage Results" MODIFIED="1461738031524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Carsim/GradPro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$json1.coverage" NAME="json1 Coverage Results" MODIFIED="1489224738792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/XML_JSON" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1485693039233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urljpeg.coverage" NAME="urljpeg Coverage Results" MODIFIED="1457854194551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urlhpeg.coverage" NAME="urlhpeg Coverage Results" MODIFIED="1457763032893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$camshift.coverage" NAME="camshift Coverage Results" MODIFIED="1504941872859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider_track_asset.coverage" NAME="spider_track_asset Coverage Results" MODIFIED="1495095528288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pedestrian_detect.coverage" NAME="pedestrian_detect Coverage Results" MODIFIED="1508826551906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$vibe_2009__1_.coverage" NAME="vibe_2009 (1) Coverage Results" MODIFIED="1511967422714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/bgs-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$textrank.coverage" NAME="textrank Coverage Results" MODIFIED="1495175640599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/ML" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$get_ip.coverage" NAME="get_ip Coverage Results" MODIFIED="1533796752400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$re14.coverage" NAME="re14 Coverage Results" MODIFIED="1457445182307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/regular_expression" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xml2.coverage" NAME="xml2 Coverage Results" MODIFIED="1530518137786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/XML_JSON" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jd_test.coverage" NAME="jd_test Coverage Results" MODIFIED="1530859816160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1532841306211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/ai_group/Tensorflow-CNN-Tutorial-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$backgroud_diff.coverage" NAME="backgroud_diff Coverage Results" MODIFIED="1512376208183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$detector.coverage" NAME="detector Coverage Results" MODIFIED="1511411843190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/Samples/Chapter 7_Code/car_detector" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$app.coverage" NAME="app Coverage Results" MODIFIED="1532440509041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier/pic_compare" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$FtpLoad.coverage" NAME="FtpLoad Coverage Results" MODIFIED="1530691487120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier/pic_compare" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urllink3.coverage" NAME="urllink3 Coverage Results" MODIFIED="1476776596827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Road_Coordinate.coverage" NAME="Road_Coordinate Coverage Results" MODIFIED="1501250778993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Carsim/GradPro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$opencv_test.coverage" NAME="opencv_test Coverage Results" MODIFIED="1500545730927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$convert_suffix.coverage" NAME="convert_suffix Coverage Results" MODIFIED="1468496031887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$zhicheng_test.coverage" NAME="zhicheng_test Coverage Results" MODIFIED="1495075233930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$change.coverage" NAME="change Coverage Results" MODIFIED="1461996483579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Video/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Assignment/Week 3/change" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$q4.coverage" NAME="q4 Coverage Results" MODIFIED="1505835332655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hello_flask.coverage" NAME="hello flask Coverage Results" MODIFIED="1528703510265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/flask" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pscheck.coverage" NAME="pscheck Coverage Results" MODIFIED="1533872879936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier/ps_check" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$s_36kr.coverage" NAME="s_36kr Coverage Results" MODIFIED="1492670135361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler/spider_36kr/spider_36kr/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Project_2___Connected_components_and_graph_resilience.coverage" NAME="Project 2 - Connected components and graph resilience Coverage Results" MODIFIED="1456239240006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket1.coverage" NAME="socket1 Coverage Results" MODIFIED="1471063708328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lucas_kanade_sparse.coverage" NAME="lucas_kanade_sparse Coverage Results" MODIFIED="1522657097441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$draw.coverage" NAME="draw Coverage Results" MODIFIED="1505841395358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$stackoverflow_spider.coverage" NAME="stackoverflow_spider Coverage Results" MODIFIED="1492670119485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Yahtzee.coverage" NAME="Yahtzee Coverage Results" MODIFIED="1455031077558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mom_task.coverage" NAME="mom_task Coverage Results" MODIFIED="1515829030972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$train.coverage" NAME="train Coverage Results" MODIFIED="1509853087775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/hmm" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$background_subtractor_MOG.coverage" NAME="background_subtractor_MOG Coverage Results" MODIFIED="1506409118038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tianyancha.coverage" NAME="tianyancha Coverage Results" MODIFIED="1493115683451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$qichacha2.coverage" NAME="qichacha2 Coverage Results" MODIFIED="1493269082704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$max_pairwise_product.coverage" NAME="max_pairwise_product Coverage Results" MODIFIED="1459006757369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/Week 1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pic_combine.coverage" NAME="pic_combine Coverage Results" MODIFIED="1500797347990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$kfwy_crawler__1_.coverage" NAME="kfwy_crawler (1) Coverage Results" MODIFIED="1533641623644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$q1__1_.coverage" NAME="q1 (1) Coverage Results" MODIFIED="1505809812327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$random_choices__1_.coverage" NAME="random_choices (1) Coverage Results" MODIFIED="1487847516682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/xls_shuffled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$api.coverage" NAME="api Coverage Results" MODIFIED="1494578384481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/spider_CookiesPool-master/cookiespool" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$geodump.coverage" NAME="geodump Coverage Results" MODIFIED="1481521837917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/geodata" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urlhw.coverage" NAME="urlhw Coverage Results" MODIFIED="1457623835337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$1.coverage" NAME="1 Coverage Results" MODIFIED="1529032365820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tire_data.coverage" NAME="tire_data Coverage Results" MODIFIED="1484474396783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Academic" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$weibo_poi_2014.coverage" NAME="weibo_poi_2014 Coverage Results" MODIFIED="1491793811088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Academic/LandUse" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$autoprocessing.coverage" NAME="autoprocessing Coverage Results" MODIFIED="1472183812598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cangxiaoer_crawler__1_.coverage" NAME="cangxiaoer_crawler (1) Coverage Results" MODIFIED="1533288342864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$processing.coverage" NAME="processing Coverage Results" MODIFIED="1455469306042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_cookie.coverage" NAME="test_cookie Coverage Results" MODIFIED="1495688593007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo.coverage" NAME="demo Coverage Results" MODIFIED="1527767618706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$love.coverage" NAME="love Coverage Results" MODIFIED="1481636483494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$different_summands.coverage" NAME="different_summands Coverage Results" MODIFIED="1462343116062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Video/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Assignment/Week 3/different_summands" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$path.coverage" NAME="path Coverage Results" MODIFIED="1458891499791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1505835857709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$APlusB__1_.coverage" NAME="APlusB (1) Coverage Results" MODIFIED="1459004890028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/Week 1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$basic_motion_detection.coverage" NAME="basic_motion_detection Coverage Results" MODIFIED="1506409132495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dbhw.coverage" NAME="dbhw Coverage Results" MODIFIED="1457884597487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Spelling_Corrector.coverage" NAME="Spelling Corrector Coverage Results" MODIFIED="1458827157551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hide_phone_number.coverage" NAME="hide_phone_number Coverage Results" MODIFIED="1529033053527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$traffic__1_.coverage" NAME="traffic (1) Coverage Results" MODIFIED="1500795298532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/PedestrianCounter-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$POC_Word_Wangler.coverage" NAME="POC_Word_Wangler Coverage Results" MODIFIED="1457594694034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/POC_Word_Wangler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$setup.coverage" NAME="setup Coverage Results" MODIFIED="1458966029279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python-oauth2-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$api_test.coverage" NAME="api_test Coverage Results" MODIFIED="1535012888274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier/pic_compare" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$get_hash.coverage" NAME="get_hash Coverage Results" MODIFIED="1535089436343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier/pic_compare" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$qicahcha_crawler.coverage" NAME="qicahcha_crawler Coverage Results" MODIFIED="1533815358735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$warehouse_crawler.coverage" NAME="warehouse_crawler Coverage Results" MODIFIED="1533793211204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$caltech101_cnn.coverage" NAME="caltech101_cnn Coverage Results" MODIFIED="1532916186981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/ai_group" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Application_Comparison_of_Clustering_Algorithms.coverage" NAME="Application_Comparison_of_Clustering_Algorithms Coverage Results" MODIFIED="1515482620042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG/ALG_Closest_Pairs_and_Clustering_Algorithms" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ALG_Degree_Distributions_For_Graphs.coverage" NAME="ALG_Degree_Distributions_For_Graphs Coverage Results" MODIFIED="1515482358570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Dijkstra_2.coverage" NAME="Dijkstra_2 Coverage Results" MODIFIED="1505871368437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$poi.coverage" NAME="poi Coverage Results" MODIFIED="1489402990657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/land use" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$electricity_record.coverage" NAME="electricity_record Coverage Results" MODIFIED="1485696681369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$baiteng.coverage" NAME="baiteng Coverage Results" MODIFIED="1493875334845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/baiteng" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tw_spider.coverage" NAME="tw_spider Coverage Results" MODIFIED="1458975362398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/TwCrawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$electricity_quantity.coverage" NAME="electricity_quantity Coverage Results" MODIFIED="1506240065531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dot_product.coverage" NAME="dot_product Coverage Results" MODIFIED="1462158644133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Video/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Assignment/Week 3/dot_product" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider_qichacha.coverage" NAME="spider_qichacha Coverage Results" MODIFIED="1495774938962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mog.coverage" NAME="mog Coverage Results" MODIFIED="1504857588418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$LDA_test.coverage" NAME="LDA_test Coverage Results" MODIFIED="1500130009321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/nlp" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Hello_Again.coverage" NAME="Hello Again Coverage Results" MODIFIED="1464946767975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$base64Test.coverage" NAME="base64Test Coverage Results" MODIFIED="1482230380745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/inetpub/wwwroot/Django" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket1__1_.coverage" NAME="socket1 (1) Coverage Results" MODIFIED="1457853895017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_PycharmProjects.coverage" NAME="Unittests in PycharmProjects Coverage Results" MODIFIED="1470835460970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ALG_Connected_Components_And_Graph_Resilience.coverage" NAME="ALG_Connected_Components_And_Graph_Resilience Coverage Results" MODIFIED="1515482351259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$plottest.coverage" NAME="plottest Coverage Results" MODIFIED="1454069545035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider_tianyancha.coverage" NAME="spider_tianyancha Coverage Results" MODIFIED="1495698225316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$intro.coverage" NAME="intro Coverage Results" MODIFIED="1515636637090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/tensorflow" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urllib1.coverage" NAME="urllib1 Coverage Results" MODIFIED="1457601737711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$twitter1.coverage" NAME="twitter1 Coverage Results" MODIFIED="1458972585465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/TwCrawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$roster_hw.coverage" NAME="roster_hw Coverage Results" MODIFIED="1458904526021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database/roster" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mytxtdl.coverage" NAME="mytxtdl Coverage Results" MODIFIED="1474785982068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/Encode" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tw_read_friends.coverage" NAME="tw_read_friends Coverage Results" MODIFIED="1458979111651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/TwCrawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urllink2.coverage" NAME="urllink2 Coverage Results" MODIFIED="1457848877336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$flask_test.coverage" NAME="flask_test Coverage Results" MODIFIED="1528944867732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$simu.coverage" NAME="simu Coverage Results" MODIFIED="1492824472281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gradpro_plot.coverage" NAME="gradpro_plot Coverage Results" MODIFIED="1501251328471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Carsim/GradPro/final" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$re10.coverage" NAME="re10 Coverage Results" MODIFIED="1457441647644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/regular_expression" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bilibili.coverage" NAME="bilibili Coverage Results" MODIFIED="1478845272210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main_crawler.coverage" NAME="main_crawler Coverage Results" MODIFIED="1534320141875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider_simu.coverage" NAME="spider_simu Coverage Results" MODIFIED="1495094841807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$JDItemCommentCrawl.coverage" NAME="JDItemCommentCrawl Coverage Results" MODIFIED="1530845050938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier/JDCrawler/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Project_1_Degree_distributions_for_graphs.coverage" NAME="Project 1 Degree distributions for graphs Coverage Results" MODIFIED="1454069681830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithmic Thinking" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xml1.coverage" NAME="xml1 Coverage Results" MODIFIED="1457764638598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/XML" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$covering_segments.coverage" NAME="covering_segments Coverage Results" MODIFIED="1462166267782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Video/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Assignment/Week 3/covering_segments" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sliding_windows.coverage" NAME="sliding_windows Coverage Results" MODIFIED="1504856241188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/obj_detector" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Plot.coverage" NAME="Plot Coverage Results" MODIFIED="1481636473745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$process.coverage" NAME="process Coverage Results" MODIFIED="1489543541120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Academic" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider.coverage" NAME="spider Coverage Results" MODIFIED="1458991685529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/pagerank" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$CNPath.coverage" NAME="CNPath Coverage Results" MODIFIED="1482236622490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/inetpub/wwwroot/Django" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urlhw1.coverage" NAME="urlhw1 Coverage Results" MODIFIED="1476774643499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pandas_10min.coverage" NAME="pandas_10min Coverage Results" MODIFIED="1526544823758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hello_flask__1_.coverage" NAME="hello flask (1) Coverage Results" MODIFIED="1528704790954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/flask_app" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1505805866371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/Dijkstra" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider_yaozh.coverage" NAME="spider_yaozh Coverage Results" MODIFIED="1495791674181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$AT_Connected_Components_And_Graph_Resilience.coverage" NAME="AT_Connected_Components_And_Graph_Resilience Coverage Results" MODIFIED="1456644528964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$harris_match.coverage" NAME="harris_match Coverage Results" MODIFIED="1508248421561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$geojson.coverage" NAME="geojson Coverage Results" MODIFIED="1458968765496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/XML_JSON" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$proxy_test.coverage" NAME="proxy_test Coverage Results" MODIFIED="1494562987997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$weibo_poi.coverage" NAME="weibo_poi Coverage Results" MODIFIED="1489406821767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/land use" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$baidu_gps.coverage" NAME="baidu_gps Coverage Results" MODIFIED="1514963017944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$meanshift__1_.coverage" NAME="meanshift (1) Coverage Results" MODIFIED="1504874872661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2048_full.coverage" NAME="2048 full Coverage Results" MODIFIED="1456239581893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Hearthstone.coverage" NAME="Hearthstone Coverage Results" MODIFIED="1454040665278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urllinks.coverage" NAME="urllinks Coverage Results" MODIFIED="1457600550268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$aoma_crawler.coverage" NAME="aoma_crawler Coverage Results" MODIFIED="1533793157053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pyCookieCheat.coverage" NAME="pyCookieCheat Coverage Results" MODIFIED="1474277529219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Others" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spiders.coverage" NAME="spiders Coverage Results" MODIFIED="1494558195333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$IIPP_RPSLS.coverage" NAME="IIPP_RPSLS Coverage Results" MODIFIED="1473594405234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fractional_knapsack.coverage" NAME="fractional_knapsack Coverage Results" MODIFIED="1462160193710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Video/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Assignment/Week 3/fractional_knapsack" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sprank.coverage" NAME="sprank Coverage Results" MODIFIED="1458991729251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/pagerank" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gradpro_plot__1_.coverage" NAME="gradpro_plot (1) Coverage Results" MODIFIED="1501314596923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/文档/研究生/研一/TRB/GradPro/final" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$air_condition.coverage" NAME="air_condition Coverage Results" MODIFIED="1533542100875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xmlhw.coverage" NAME="xmlhw Coverage Results" MODIFIED="1457781161422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/XML" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$kalman_camshift.coverage" NAME="kalman_camshift Coverage Results" MODIFIED="1506408512417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hist.coverage" NAME="hist Coverage Results" MODIFIED="1504866801255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$assignment_2.coverage" NAME="assignment_2 Coverage Results" MODIFIED="1476796056164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dorm_crawler_selenium.coverage" NAME="dorm_crawler_selenium Coverage Results" MODIFIED="1471158133620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$emaildb.coverage" NAME="emaildb Coverage Results" MODIFIED="1457883668881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rewrite.coverage" NAME="rewrite Coverage Results" MODIFIED="1461987915318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Graduate Project/Carsim" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hierarchical_clustering.coverage" NAME="hierarchical_clustering Coverage Results" MODIFIED="1482494783766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/inetpub/wwwroot/Django" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$alg_project3_countries.coverage" NAME="alg_project3_countries Coverage Results" MODIFIED="1515482648311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG/ALG_Closest_Pairs_and_Clustering_Algorithms" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$photo_geo__1_.coverage" NAME="photo_geo (1) Coverage Results" MODIFIED="1481960147278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/inetpub/wwwroot/Django" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spjson.coverage" NAME="spjson Coverage Results" MODIFIED="1458992203841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/pagerank" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$POC_Tic_Tac_Toe_MiniMax.coverage" NAME="POC_Tic-Tac-Toe_MiniMax Coverage Results" MODIFIED="1457430458568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/POC_Tic-Tac_Toe" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$image_valid.coverage" NAME="image_valid Coverage Results" MODIFIED="1531288266198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$manual_click.coverage" NAME="manual_click Coverage Results" MODIFIED="1514971594525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$roster.coverage" NAME="roster Coverage Results" MODIFIED="1458904340342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database/roster" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lk_track.coverage" NAME="lk_track Coverage Results" MODIFIED="1512049446205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$zhihu.coverage" NAME="zhihu Coverage Results" MODIFIED="1479792751866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler/zhihu" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Road_Coordinate__1_.coverage" NAME="Road_Coordinate (1) Coverage Results" MODIFIED="1501251449931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/文档/研究生/研一/TRB/GradPro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$enumeration.coverage" NAME="enumeration Coverage Results" MODIFIED="1454946924743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$qichacha.coverage" NAME="qichacha Coverage Results" MODIFIED="1493264211233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$traffic.coverage" NAME="traffic Coverage Results" MODIFIED="1506408430678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/PedestrianCounter-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tw_friends.coverage" NAME="tw_friends Coverage Results" MODIFIED="1458977140777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/TwCrawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1499964240510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/ML/nouse_data" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DbLoader.coverage" NAME="DbLoader Coverage Results" MODIFIED="1535080812536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier/pic_compare" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$vibe_diff.coverage" NAME="vibe_diff Coverage Results" MODIFIED="1512195302759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$POC_Enumeration.coverage" NAME="POC_Enumeration Coverage Results" MODIFIED="1473595647135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Homework4_10.coverage" NAME="Homework4.10 Coverage Results" MODIFIED="1455024756942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dorm_crawler.coverage" NAME="dorm_crawler Coverage Results" MODIFIED="1479790991775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$assignment_3.coverage" NAME="assignment_3 Coverage Results" MODIFIED="1477476972310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xmlhw2.coverage" NAME="xmlhw2 Coverage Results" MODIFIED="1457781246381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/XML" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pickle_demo.coverage" NAME="pickle_demo Coverage Results" MODIFIED="1500087627195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$draw_circle.coverage" NAME="draw_circle Coverage Results" MODIFIED="1504872652662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$APlusB.coverage" NAME="APlusB Coverage Results" MODIFIED="1459001445410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bili2.coverage" NAME="bili2 Coverage Results" MODIFIED="1478579637997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$proxies.coverage" NAME="proxies Coverage Results" MODIFIED="1495092459155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2.coverage" NAME="2 Coverage Results" MODIFIED="1529028721680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$re_hw.coverage" NAME="re_hw Coverage Results" MODIFIED="1457445217170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/regular_expression" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket2.coverage" NAME="socket2 Coverage Results" MODIFIED="1471063774879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$p_compare.coverage" NAME="p_compare Coverage Results" MODIFIED="1529465036925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haier/pic_compare" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$vibe_2009.coverage" NAME="vibe_2009 Coverage Results" MODIFIED="1511966735169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$route_analyze.coverage" NAME="route_analyze Coverage Results" MODIFIED="1511919649033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ALG_Matrix_and_Alignment_Functions.coverage" NAME="ALG_Matrix_and_Alignment-Functions Coverage Results" MODIFIED="1458400353925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG_Computing_Alignments_of_Sequences" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$json2.coverage" NAME="json2 Coverage Results" MODIFIED="1482172020643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/XML_JSON" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cluster_oracle.coverage" NAME="cluster_oracle Coverage Results" MODIFIED="1534992486617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$coordinate_convert.coverage" NAME="coordinate_convert Coverage Results" MODIFIED="1522674559196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1476858675202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider_clinical_data.coverage" NAME="spider_clinical_data Coverage Results" MODIFIED="1494034109974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$raw_string_trans.coverage" NAME="raw_string_trans Coverage Results" MODIFIED="1457853617190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/Network program" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Project_1_Degree_distributions_for_graphs__1_.coverage" NAME="Project 1 Degree distributions for graphs (1) Coverage Results" MODIFIED="1454941215201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Dijkstra.coverage" NAME="Dijkstra Coverage Results" MODIFIED="1505871375978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/demo/E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$diff_test.coverage" NAME="diff_test Coverage Results" MODIFIED="1522815311533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$meanshift.coverage" NAME="meanshift Coverage Results" MODIFIED="1506408497167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/tracker" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cangxiaoer_crawler.coverage" NAME="cangxiaoer_crawler Coverage Results" MODIFIED="1534128652237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$kfwy_crawler.coverage" NAME="kfwy_crawler Coverage Results" MODIFIED="1533263947259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$kalman.coverage" NAME="kalman Coverage Results" MODIFIED="1510555006319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/Samples/Chapter_8_Code" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$alg_cluster.coverage" NAME="alg_cluster Coverage Results" MODIFIED="1482149751077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG/ALG_Closest_Pairs_and_Clustering_Algorithms" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$route_analyze_vibe.coverage" NAME="route_analyze_vibe Coverage Results" MODIFIED="1522282195254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$detect_hog_svm.coverage" NAME="detect_hog_svm Coverage Results" MODIFIED="1500708437866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tracks.coverage" NAME="tracks Coverage Results" MODIFIED="1458735657361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database/tracks" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spider_medicine.coverage" NAME="spider_medicine Coverage Results" MODIFIED="1495785652611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Test.coverage" NAME="Test Coverage Results" MODIFIED="1525682721714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$TFIDF.coverage" NAME="TFIDF Coverage Results" MODIFIED="1499964179093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/ML" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$poc_navtree.coverage" NAME="poc_navtree Coverage Results" MODIFIED="1457408162002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/POC_Tree" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$process__2_.coverage" NAME="process (2) Coverage Results" MODIFIED="1463020826407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Graduate Project/Carsim/GradPro/post-process/6400" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1533268669586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$qicahcha_crawler__1_.coverage" NAME="qicahcha_crawler (1) Coverage Results" MODIFIED="1534042190537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ALG_Closest_Pairs_and_Clustering.coverage" NAME="ALG_Closest_Pairs_and_Clustering Coverage Results" MODIFIED="1515482379244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG/ALG_Closest_Pairs_and_Clustering_Algorithms" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$camshift__1_.coverage" NAME="camshift (1) Coverage Results" MODIFIED="1504941835280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection/Samples/Chapter_8_Code" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tianyancha_re.coverage" NAME="tianyancha_re Coverage Results" MODIFIED="1493166021377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dorm_crawler_cookies.coverage" NAME="dorm_crawler_cookies Coverage Results" MODIFIED="1471159012316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$route_analyze_lk.coverage" NAME="route_analyze_lk Coverage Results" MODIFIED="1513060566301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Math_Dice_Game.coverage" NAME="Math Dice Game Coverage Results" MODIFIED="1456280309423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cshear1.coverage" NAME="cshear1 Coverage Results" MODIFIED="1489413275193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Academic" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$run.coverage" NAME="run Coverage Results" MODIFIED="1495072124972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/spider_CookiesPool-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lucas_kanade__1_.coverage" NAME="lucas_kanade (1) Coverage Results" MODIFIED="1508394537784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/visual_detection" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$simu__1_.coverage" NAME="simu (1) Coverage Results" MODIFIED="1492824752832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/crawler/simu/simu/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Road_Coordinate__2_.coverage" NAME="Road_Coordinate (2) Coverage Results" MODIFIED="1460533928299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Carsim/my1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spdump.coverage" NAME="spdump Coverage Results" MODIFIED="1458991544739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebData/pagerank" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1499964265686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wotou/wotoudjango/wotu/ML" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Coursera_subtitle.coverage" NAME="Coursera_subtitle Coverage Results" MODIFIED="1534990318694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$alg_project3_testsuite.coverage" NAME="alg_project3_testsuite Coverage Results" MODIFIED="1515482860899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals of Computing/ALG/ALG_Closest_Pairs_and_Clustering_Algorithms" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$clean_data.coverage" NAME="clean_data Coverage Results" MODIFIED="1535088272188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster/cluster_oracle.py" />
+    </disable_hints>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])" module-name="Python3Projects" is-module-sdk="true">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])" />
+    <option name="myUseModuleSdk" value="true" />
+    <option name="myModuleName" value="Python3Projects" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-490723282">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="3" />
+          <entry key="ipynb" value="1" />
+          <entry key="py" value="39" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Django Console" value="252" />
+          <entry key="Python Console" value="4" />
+          <entry key="csv" value="1" />
+          <entry key="py" value="10571" />
+          <entry key="txt" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="10827" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PycharmProjects">
+      <favorite_root url="file://$PROJECT_DIR$/WebData/geodata/geodata.sqlite" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster/cluster_oracle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1535001770107" expanded="true" signature="3414:3419" ph="..." />
+                <marker date="1535001770107" expanded="true" signature="3438:3443" ph="..." />
+                <marker date="1535001770107" expanded="true" signature="5921:5923" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/clean_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <folding>
+                <element signature="e#208#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/haier/pic_compare/get_hash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="445" column="25" selection-start-line="445" selection-start-column="25" selection-end-line="445" selection-end-column="25" />
+              <folding>
+                <marker date="1535079135833" expanded="true" signature="4209:4321" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haier/pic_compare/api_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+              <folding>
+                <element signature="e#88#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haier/pic_compare/DbLoader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#87#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>100</find>
+      <find>structure</find>
+      <find>many</find>
+      <find>all_re</find>
+      <find>get_all</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python3Projects" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster/cluster_oracle.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/haier/pic_compare/repeated_download.log" />
+        <option value="$PROJECT_DIR$/../Python3Projects/demo/image_valid.py" />
+        <option value="$PROJECT_DIR$/demo/image_complete.py" />
+        <option value="$USER_HOME$/Desktop/DbLoader.py" />
+        <option value="$PROJECT_DIR$/haier/pic_compare/app.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/cangxiaoer_page1to31.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/ai_group/Tensorflow-CNN-Tutorial-master/cnn.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/ai_group/caltech101_cnn.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/cangxiaoer_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/aoma_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/kfwy_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/main.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/Cangxiaoer_city.txt" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/main.py" />
+        <option value="$PROJECT_DIR$/haier/air.py" />
+        <option value="$PROJECT_DIR$/haier/air_condition.py" />
+        <option value="D:/下载/360Downloads/cluster.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/wlyc_ip.txt" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/wlyc_https.txt" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/wlyc_http.txt" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/Aoma_city.txt" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/get_ip.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/aoma_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/abuyun_proxy.py" />
+        <option value="D:/下载/360Downloads/ip_test.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/qicahcha_crawler.py" />
+        <option value="$PROJECT_DIR$/haier/ps_check/pscheck.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/市场销售采购人员信息._冲突.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/市场销售采购人员信息._利益冲突.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/phone._利益冲突.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/phone_45001_end._利益冲突.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/phone_利益冲突.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/phone_45001_end_利益冲突.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/qicahcha_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/cangxiaoer_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/warehouse_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/geocode.csv" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/Untitled.ipynb" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/main_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/clean_yidaichu_yidaichu.csv" />
+        <option value="D:/haier/warehouse_crawler/data/yidaichu/3.yidaichu_crawler.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/kfwy_crawler.py" />
+        <option value="$PROJECT_DIR$/haier/pic_compare/CONFIGURE.py" />
+        <option value="$PROJECT_DIR$/demo/autoprocessing.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster/cluster_oracle.py" />
+        <option value="$PROJECT_DIR$/haier/pic_compare/api_test.py" />
+        <option value="$PROJECT_DIR$/haier/pic_compare/get_hash.py" />
+        <option value="$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/clean_data.py" />
+        <option value="$PROJECT_DIR$/haier/pic_compare/DbLoader.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-126" />
+    <option name="y" value="159" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\zhqch\Documents\code\Python3Projects" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+              <item name="pic_compare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python3Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python3Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python3Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+              <item name="air_condition_cluster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python3Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="haier" type="462c0819:PsiDirectoryNode" />
+              <item name="warehouse_crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="109" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="113" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="113" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="568" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="109" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="113" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="113" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="568" />
+    <property name="SearchEverywhereHistoryKey" value="cluster&#9;FILE&#9;file://C:/Users/zhqch/Documents/code/Python3Projects/haier/air_condition_cluster/cluster_oracle.py&#10;nn&#9;FILE&#9;file://C:/Users/zhqch/.PyCharm50/system/python_stubs/-1435433218/cx_Oracle/connect.py&#10;sys&#9;null&#9;null&#10;_bg&#9;null&#9;null&#10;createback&#9;null&#9;null&#10;mysql&#9;null&#9;null&#10;geophoto.xyz&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wotou/wotoudjango" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Python3Projects" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Python3Projects" />
+      </console-settings>
+    </option>
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhqch\Documents\code\Python3Projects\haier\air_condition_cluster" />
+      <recent name="C:\Users\zhqch\Documents\code\Python3Projects\haier\warehouse_crawler" />
+      <recent name="C:\Users\zhqch\Documents\code\Python3Projects\haier\profit_conflict" />
+      <recent name="C:\Users\zhqch\Documents\code\Python3Projects\haier" />
+      <recent name="C:\Users\zhqch\Documents\code\PycharmProjects\haier" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhqch\Documents\code\Python3Projects\haier\profit_conflict" />
+      <recent name="C:\Users\zhqch\Documents\code\PycharmProjects\haier\air_condition" />
+      <recent name="C:\Users\zhqch\Documents\code\Python3Projects\haier\warehouse_crawler" />
+      <recent name="C:\Users\zhqch\Documents\code\PycharmProjects\demo" />
+      <recent name="C:\Users\zhqch\Documents\code\PycharmProjects\demo\Encode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Software\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_hash" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Software\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/haier/pic_compare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/haier/pic_compare/get_hash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_hash" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6605fd-fa95-4b9a-a095-c3c1c51f39a3" name="Default" comment="" />
+      <created>1454000106786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1454000106786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_PycharmProjects - 2016.08.10 at 21h 24m 21s.xml">
+      <configuration name="Unittests in PycharmProjects" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" sideWeight="0.51578945" side_tool="true" weight="0.14285715" />
+      <window_info active="true" content_ui="combo" x="153" y="81" width="331" height="758" id="Project" order="1" sideWeight="0.48421052" visible="true" weight="0.27665246" />
+      <window_info id="Structure" order="2" type="SLIDING" weight="0.24736048" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.45628998" side_tool="true" visible="true" weight="0.2483731" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.48933902" weight="0.23101953" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.49550128" weight="0.22018349" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.2640625" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969743" weight="0.043157894" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.54371" visible="true" weight="0.2483731" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.329718" />
+      <window_info anchor="bottom" x="999" y="74" width="594" height="944" id="Python Console" order="12" sideWeight="0.532516" weight="0.30802602" />
+      <window_info anchor="right" x="0" y="0" width="296" height="588" id="Documentation" order="0" sideWeight="0.5017301" side_tool="true" weight="0.31716418" />
+      <window_info anchor="right" id="Database" order="1" sideWeight="0.4989154" weight="0.36034116" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Debug" order="5" sideWeight="0.4982699" weight="0.31666666" />
+      <window_info anchor="right" id="SciView" order="6" sideWeight="0.4989154" weight="0.32916668" />
+      <window_info anchor="right" x="830" y="131" width="503" height="569" id="Run" order="7" sideWeight="0.4967213" weight="0.27771854" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="153" y="81" width="331" height="758" id="Project" order="0" sideWeight="0.4851794" visible="true" weight="0.16204691" />
+      <window_info id="Structure" order="1" weight="0.24807198" />
+      <window_info id="Favorites" order="2" sideWeight="0.5148206" side_tool="true" weight="0.215478" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.43797275" side_tool="true" weight="0.42361864" />
+      <window_info anchor="bottom" id="Python Console" order="1" weight="0.1897712" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.48933902" weight="0.23185265" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.49550128" weight="0.22101842" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.2640625" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4969743" weight="0.04418985" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5620272" weight="0.2751896" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.32827735" />
+      <window_info anchor="right" id="Database" order="0" weight="0.36053985" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" x="830" y="131" width="503" height="569" id="Run" order="4" visible="true" weight="0.43017057" />
+      <window_info anchor="right" id="Debug" order="5" weight="0.26865673" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="false" />
+    <option name="LIMIT_HISTORY" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals of Computing/ALG/ALG_Degree_Distributions_For_Graphs.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals of Computing/ALG/ALG_Degree_Distributions_For_Graphs.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals of Computing/POC/POC_Tic-Tac_Toe/poc_ttt_gui.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/WebData/Network program/urllink3.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/WebData/XML_JSON/xml1.py</url>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals of Computing/POC/POC_Fifteen_Puzzle/POC_Fifteen_Puzzle.py</url>
+          <line>348</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/WebData/TwCrawler/tw_friends.py</url>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/WebData/pagerank/sprank.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$USER_HOME$/Desktop/Carsim/my1/Road_Coordinate.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/demo/Encode/mytxtdl.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$USER_HOME$/Desktop/Graduate Project/Carsim/GradPro/Road_Coordinate.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/demo/convert_suffix.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals of Computing/POC/POC_2048/poc_2048_gui.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals of Computing/POC/POC_Zombie_Apocalypse/POC_Zombie_Apocalypse.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals of Computing/IIPP/IIPP_Spaceship.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/WebData/Network program/urllink2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://C:/inetpub/wwwroot/Django/DjangoTest/models.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/demo/xls_shuffled/random_choices.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/demo/crawler/assignment_3.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/demo/crawler/Tianyancha-master/tianyancha/middlewares/ProxyMiddleware.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/demo/crawler/spider_36kr/spider_36kr/spiders/s_36kr.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../Python3Projects/visual_detection/Samples/Chapter_8_Code/kalman.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="688" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="rps[::2]" language="Python" />
+        <watch expression="rps[1:;2]" language="Python" />
+        <watch expression="rps[1::2]" language="Python" />
+        <watch expression="zip(rps[::2], rps[1::2])" language="Python" />
+        <watch expression="list(zip(rps[::2], rps[1::2]))" language="Python" />
+        <watch expression="move[0][0].tolist()" language="Python" />
+        <watch expression="move" language="Python" />
+        <watch expression="frame &gt; 99" language="Python" />
+        <watch expression="frame_num &gt; self.frame_seq[-1]" language="Python" />
+        <watch expression="frame_num == self.frame_seq[-1]" language="Python" />
+        <watch expression=" move[(move[:, 0] - mean[:, 0] &lt;= std[:, 0]) * (move[:, 1] - mean[:, 1] &lt;= std[:, 1])]" language="Python" />
+        <watch expression="move[:, 0] - mean[:, 0] &lt;= std[:, 0]" language="Python" />
+        <watch expression="move" language="Python" />
+        <watch expression="move[:,0]" language="Python" />
+        <watch expression="move[:, 0] - mean[:, 0] &lt;= std[:, 0]" language="Python" />
+        <watch expression="mean[:, 0]" language="Python" />
+        <watch expression="mean[0]" language="Python" />
+        <watch expression="move[:, 0] - mean[0] &lt;= std[0]" language="Python" />
+        <watch expression="move[(move[:, 0] - mean[0] &lt;= std[0]) * (move[:, 1] - mean[1] &lt;= std[1])]" language="Python" />
+        <watch expression="self.lk_corner[:,-1,:]" language="Python" />
+        <watch expression="np.reshape(self.lk_corner[:,-1,:], (self.lk_corner.shape[0], 1, 2))" language="Python" />
+        <watch expression="tracking_obj[2].predict_pos(200)" language="Python" />
+        <watch expression="overall_roi[center[1]][center[0]]" language="Python" />
+        <watch expression="track2contour" language="Python" />
+        <watch expression="track2contour = {list} [3, -1, 1, -1, 4, -1, 8, -1, 6, -1, 17, -1, 6, -1, 4, -1, 17, -1, 8, -1, 14, -1, 4, -1, 11, -1, 10, -1, 14, -1, 14, -1, 14, -1, 8, -1, 10, -1, 14, -1, 13, -1, 14, -1, 14, -1]" />
+        <watch expression="tracks" language="Python" />
+        <watch expression="new_p" language="Python" />
+        <watch expression="dict_contour2obj" language="Python" />
+        <watch expression="dict_contour2obj[1]" language="Python" />
+        <watch expression="str(dict_contour2obj[idx])" language="Python" />
+        <watch expression="tracks" language="Python" />
+        <watch expression="track2obj" language="Python" />
+        <watch expression="cv2.contourArea(contours[0])" language="Python" />
+        <watch expression="cv2.contourArea(contours[1])" language="Python" />
+        <watch expression="cv2.pointPolygonTest(contours[i], (x, y), False)" language="Python" />
+        <watch expression="tracking_objs" language="Python" />
+        <watch expression="corner2obj" language="Python" />
+        <watch expression="new_tracks" language="Python" />
+        <watch expression="corner2contour" language="Python" />
+        <watch expression="area_compare(area, temp_area + tracking_objs[pair_obj[pair_result]].last_area, temp_area)" language="Python" />
+        <watch expression="temp_area + tracking_objs[pair_obj[pair_result]].last_area" language="Python" />
+        <watch expression="temp_area" language="Python" />
+        <watch expression="area" language="Python" />
+        <watch expression="tracking_objs[pair_obj[0]].num" language="Python" />
+        <watch expression="tracking_objs[pair_obj[0]].num = {int} 19" />
+        <watch expression="[corner2obj[p_idx] for p_idx in pos]" language="Python" />
+        <watch expression=" [cor for cor in data_list[3: -1]]" language="Python" />
+        <watch expression="tracking_objs" language="Python" />
+        <watch expression="self.lk_corner[chosen]" language="Python" />
+        <watch expression="p[0][0]" language="Python" />
+        <watch expression="contours" />
+        <watch expression="sorted_corners[current_idx][idx_offset: ]" language="Python" />
+        <watch expression="sorted_corners[current_idx][0][0]" language="Python" />
+        <watch expression="centers=centers[:len(frame)]" language="Python" />
+        <watch expression="centers[:len(frame)]" language="Python" />
+        <watch expression="tf.zeros([1])" language="Python" />
+        <watch expression="np.array(image)" language="Python" />
+        <watch expression="a" language="Python" />
+      </configuration>
+      <configuration name="Python.DjangoServer">
+        <watch expression="self" language="Python" />
+        <watch expression="sys.path" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/inetpub/wwwroot/Django/DjangoTest/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/inetpub/wwwroot/Django/DjangoTest/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Python27/Lib/site-packages/exifread/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/inetpub/wwwroot/Django/photo_geo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/ps_check/pscheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="415" column="19" selection-start-line="415" selection-start-column="17" selection-end-line="415" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/zhicheng_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/spider_CookiesPool-master/cookiespool/generator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset/cookies_pool_for_qichacha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../wotou/wotoudjango/wotu/spiders/track_asset/spider_qichacha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/zhicheng_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="84" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Python35/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="654" selection-start-line="654" selection-end-line="654" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster/cluster.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/abuyun_proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/aoma_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Python35/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4359" selection-start-line="4359" selection-end-line="4359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/geocode.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/cangxiaoer_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/profit_conflict/qicahcha_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="100" column="40" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/Untitled.ipynb" />
+    <entry file="file://C:/Software/Python35/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="2416" lean-forward="true" selection-start-line="2416" selection-end-line="2416" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/main_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Python35/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="3574" selection-start-line="3574" selection-end-line="3574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/clean_yidaichu_yidaichu.csv" />
+    <entry file="file://D:/haier/warehouse_crawler/data/yidaichu/3.yidaichu_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="141" column="57" selection-start-line="141" selection-start-column="50" selection-end-line="141" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Python35/Lib/site-packages/sqlalchemy/engine/interfaces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="680" column="35" lean-forward="true" selection-start-line="680" selection-start-column="35" selection-end-line="680" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Python35/Lib/site-packages/sqlalchemy/engine/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="411" selection-start-line="411" selection-end-line="411" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/kfwy_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1135">
+          <caret line="55" column="12" lean-forward="true" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Anaconda/Lib/site-packages/sklearn/cluster/k_means_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="850" selection-start-line="850" selection-end-line="850" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Anaconda/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="6059" selection-start-line="6059" selection-end-line="6059" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Anaconda/Lib/site-packages/pandas/core/reshape/concat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="225" selection-start-line="225" selection-end-line="225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1435433218/cx_Oracle/connect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/project_code/search_group_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/autoprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Coursera_subtitle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/pic_compare/FtpLoad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/air_condition/air_condition.py" />
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster/空调品类整理_聚类结果.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster/空调品类整理_距离矩阵.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/project_code/GEMS涉及的单据查询SQL.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="5" selection-start-line="7" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/project_code/EDOC下载图片逻辑.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1435433218/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="364" column="4" selection-start-line="364" selection-start-column="4" selection-end-line="364" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Software/Python27/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1866">
+          <caret line="853" column="8" selection-start-line="853" selection-start-column="8" selection-end-line="853" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/warehouse_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/pic_compare/CONFIGURE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/air_condition_cluster/cluster_oracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1535001770107" expanded="true" signature="3414:3419" ph="..." />
+            <marker date="1535001770107" expanded="true" signature="3438:3443" ph="..." />
+            <marker date="1535001770107" expanded="true" signature="5921:5923" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python3Projects/haier/warehouse_crawler/clean_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <element signature="e#208#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/pic_compare/api_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="e#88#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/pic_compare/DbLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#87#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haier/pic_compare/get_hash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="445" column="25" selection-start-line="445" selection-start-column="25" selection-end-line="445" selection-end-column="25" />
+          <folding>
+            <marker date="1535079135833" expanded="true" signature="4209:4321" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1984127" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

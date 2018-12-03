@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+ids.tongji.edu.cn	FALSE	/nidp	TRUE		UrnNovellNidpClusterMemberId	~03~0Bslo~0A~0B~14mop~09~0F
+ids.tongji.edu.cn	FALSE	/nidp/	TRUE		JSESSIONID	05A47CC3C482CB26BE06926ACCAF902A
